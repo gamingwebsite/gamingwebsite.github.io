@@ -27,16 +27,7 @@ body{
     background-color: orange;
     
 }
-.nav a:hover {
-    background-color: black;
-}
 
-.nav a.active {
-    background-color: #fff;
-    color: #444;
-    cursor: default
-
-}
 
 
 #title1{
